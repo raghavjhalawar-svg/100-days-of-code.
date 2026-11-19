@@ -18,4 +18,4 @@ if (sum==original)
 else
   printf("the number is not a strong number.");
     return 0;
-]
+}
